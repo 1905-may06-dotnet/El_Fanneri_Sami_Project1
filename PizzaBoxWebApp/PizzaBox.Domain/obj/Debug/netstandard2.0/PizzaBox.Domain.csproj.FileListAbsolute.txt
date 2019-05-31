@@ -1,0 +1,27 @@
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.deps.json
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.dll
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.pdb
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.csprojAssemblyReference.cache
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.AssemblyInfoInputs.cache
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.AssemblyInfo.cs
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.dll
+C:\Users\Sami\source\repos\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.pdb
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.deps.json
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.dll
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.pdb
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.AssemblyInfo.cs
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.dll
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.pdb
+C:\Users\Sami\Documents\Revature_training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.csprojAssemblyReference.cache
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.deps.json
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.dll
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\bin\Debug\netstandard2.0\PizzaBox.Domain.pdb
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.csprojAssemblyReference.cache
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.AssemblyInfo.cs
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.dll
+C:\Users\Sami\Documents\C# training\sami_el_fanneri_project1\PizzaBoxWebApp\PizzaBox.Domain\obj\Debug\netstandard2.0\PizzaBox.Domain.pdb
