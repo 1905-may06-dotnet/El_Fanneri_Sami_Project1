@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sami\\Documents\\C# training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj": {}
+    "C:\\Users\\Sami\\Documents\\Revature_training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sami\\Documents\\C# training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj": {
+    "C:\\Users\\Sami\\Documents\\Revature_training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sami\\Documents\\C# training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Sami\\Documents\\Revature_training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj",
         "projectName": "PizzaBox.Domain",
-        "projectPath": "C:\\Users\\Sami\\Documents\\C# training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj",
+        "projectPath": "C:\\Users\\Sami\\Documents\\Revature_training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj",
         "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sami\\Documents\\C# training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Sami\\Documents\\Revature_training\\sami_el_fanneri_project1\\PizzaBoxWebApp\\PizzaBox.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
